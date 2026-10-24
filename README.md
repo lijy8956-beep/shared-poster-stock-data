@@ -2,6 +2,14 @@
 
 This package contains a minimal, de-identified projection of the locally retained Eastmoney Guba crawler CSV files. It is intended as source data for the study of shared-poster stock networks.
 
+## Download
+
+Download the [v1.0.0 data archive](https://github.com/lijy8956-beep/shared-poster-stock-data/releases/download/v1.0.0/guba_basic_data_20261024.zip) from the [release page](https://github.com/lijy8956-beep/shared-poster-stock-data/releases/tag/v1.0.0). Select `guba_basic_data_20261024.zip`; the automatically generated GitHub source-code archives contain repository documentation only.
+
+- Archive size: 157,077,841 bytes.
+- SHA-256: `6912a2d93d5500884417e85ddb6b9132a1efbe0764857ee0786f837a30867abc`.
+- Extract the ZIP, then read or decompress the `posts/*.csv.gz` files. Both README.md and file_manifest.csv are included in the archive.
+
 ## Coverage
 
 - Source files: 999, one per stock.
